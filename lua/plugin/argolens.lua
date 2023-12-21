@@ -1,0 +1,1 @@
+return {"desdic/agrolens.nvim"}
